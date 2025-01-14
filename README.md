@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<div class="text-center"><p><strong>&ldquo;花样年华&rdquo;抖音群春节假期烤窑鸡项目计划书</strong></p></div>
+<p><strong>&ldquo;花样年华&rdquo;抖音群春节假期烤窑鸡项目计划书</strong></p>
 <ol>
 <li><strong> </strong><strong>项目概述</strong></li>
 </ol>
