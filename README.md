@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<p><strong>&ldquo;花样年华&rdquo;抖音群春节假期烤窑鸡项目计划书</strong></p>
+<p><strong>&ldquo;花样年华&rdquo;抖音群端午假期烤窑鸡项目计划书</strong></p>
 <ol>
 <li><strong> </strong><strong>项目概述</strong></li>
 </ol>
@@ -42,8 +42,8 @@
 <li><strong> </strong><strong>项目时间计划</strong></li>
 </ol>
 <ul>
-<li><strong>项目启动时间</strong>：2025年1月27日</li>
-<li><strong>项目结束时间</strong>：2025年1月27日（假期结束后评估）</li>
+<li><strong>项目启动时间</strong>：2026年6月19日</li>
+<li><strong>项目结束时间</strong>：2026年6月19日（假期结束后评估）</li>
 <li><strong>主要时间节点</strong>：</li>
 <ul>
 <li>1月27日上午：完成市场调研，确定群内成员需求。</li>
